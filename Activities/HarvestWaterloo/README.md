@@ -5,6 +5,6 @@
 ## Links
 
 * [Harvest Waterloo challenge (pdf)](./HarvestWaterloo.pdf)
-* [Example solution video walk-through (YouTube)](https://youtu.be/dwA7aYdmISE)
+* [Example solution video walk-through (YouTube)](https://youtu.be/YgqeKDb2Hxs)
 * [Example C solution](./C/harvest.c)
 * [Example Python solution](./Python/harvest.py)
