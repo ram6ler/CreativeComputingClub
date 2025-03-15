@@ -6,5 +6,5 @@
 
 * [Heavy-Light Composition challenge (pdf)](./HeavyLight.pdf)
 * [Example solution video walk-through (YouTube)](https://youtu.be/-kbaSd03orA)
-* [Example C solution](./C/heavy_light.c)
-* [Example Python solution](./Python/heavy_light.py)
+* [Example C solution](./c/heavy_light.c)
+* [Example Python solution](./python/heavy_light.py)
